@@ -1,3 +1,2 @@
 # dita-scripts
-This is where the master source for the DITA shell scripts resides.
-2 March 2021 -- Currently setting up Git repository
+This is source for DITA shell scripts for analyzing Publication topic lists exported from SDL.
